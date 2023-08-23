@@ -6,7 +6,6 @@ permalink: /IET digital library/VOS-SSL
 excerpt: 'This paper is about the notion of perception of an environment and conjuring the dynamic variation using VOS .'
 date: 2022-10-01
 venue: 'IET conference'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Joshi, Amey, et al. "Video object segmentation with the self-supervised framework for an autonomous vehicle." (2022): 20-25.
 '
 ---
