@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "RFID attendance system using 8051 microcontroller Project"
 excerpt: "Problem Statement:
 Educational institutions and workplaces face challenges in managing attendance efficiently, with traditional methods being time-consuming and insecure. This results in concerns over truancy impacting academic performance and work productivity.
 
