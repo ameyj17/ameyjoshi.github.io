@@ -5,8 +5,7 @@ Educational institutions and workplaces face challenges in managing attendance e
 collection: Portfolio
 ---
 
-Solution:
+<img src="./RFID_1.png" width="200" height="150" align="left"> Solution:
 Implementing a Radio Frequency Identification (RFID) based attendance system offers a secure, efficient, and accurate solution. Each individual's RFID-tagged ID card uniquely identifies them, enabling quick attendance capture by simply placing the card on a reader. Real-time clock functionality ensures precise time records, and data can be stored in a database, accessible through RS232 or USB connections, or viewed via HyperTerminal software, streamlining attendance management for schools, colleges, universities, and workplaces.
 
-<img src="/images/RFID_1.png" width="200" height="150" align="left">
 
