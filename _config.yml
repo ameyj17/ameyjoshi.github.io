@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amey's Homepage"
 title_separator          : "-"
 name                     : &name "Amey Joshi"
-description              : &description "Researcher|Programmer|Scholar|Gamer"
+description              : &description "Roboticist|AI Enthusiast|Football Pundit"
 url                      : https://ameyj17.github.io/ameyjoshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ameyjoshi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amey Joshi [10]"
   avatar           : "profile.png"
-  bio              : "Roboticist|AI Enthusiast|Football Pundit"
+  bio              : "Researcher|Programmer|Scholar|Gamer"
   location         : "Pune,India"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
