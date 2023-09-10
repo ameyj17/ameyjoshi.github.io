@@ -1,5 +1,5 @@
 ---
-title: "Video Object segmentation using self-supervision for autonomous vehicle | Computer visio"
+title: "Video Object segmentation using self-supervision for autonomous vehicles"
 excerpt: "Processing on unlabeled data, form clusters of individual entities and discriminating the foreground and background through
 self-supervised learning framework."
 collection: Portfolio
