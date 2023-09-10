@@ -50,7 +50,7 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
-🎓I am Currently an undergraduate student at Symbiosis International University, pursuing a Bachelor's degree(B.Tech) in Electronics and Telecommunication and specialization with robotics and AI.I was indeed fortunate to be guided by luminaries in the field—Dr. Ketan Kotecha, Dr. Rahee Walambe and Mrs. Gargi Joshi—whose mentorship impelled me to perpetually seek solutions to the most intricate inquiries.
+🎓I am Currently an undergraduate student at Symbiosis International University, pursuing a Bachelor's degree(B.Tech) in Electronics and Telecommunication and specialization in robotics and AI. I was indeed fortunate to be guided by luminaries in the field—Dr. Ketan Kotecha, Dr. Rahee Walambe and Mrs. Gargi Joshi—whose mentorship impelled me to perpetually seek solutions to the most intricate inquiries.
 
 💡 Passionate about leveraging cutting-edge technologies to tackle intricate challenges. Particularly enthusiastic about the domains of collaborative robotics, autonomous systems, human-robot interaction, and aerial vehicles.
 
@@ -59,3 +59,6 @@ More info about configuring academicpages can be found in [the guide](https://ac
 🤖💡with a strong desire for continuous learning, I hold a deep fascination for addressing challenges in collaborative robotics, navigation, and perception within autonomous systems.  In particular, I'm intrigued by the facets of decision-making and intelligent thinking, employing reinforcement and imitation learning. 🧠 Additionally, my passion extends to exploring the diverse dimensions of human-robot intelligence and the myriad possibilities offered by aerial vehicles, all through the lens of multimodality.
 
 🚀 Fueled by an unwavering motivation to explore, innovate, and ultimately contribute to the progression of technology.
+
+| ![Image 1](/ameyjoshi.github.io/images/SIT.jpg) | ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg) | ![Image 3](/ameyjoshi.github.io/images/DST.jpg) | ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg) | ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg) |
+
