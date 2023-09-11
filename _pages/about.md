@@ -50,13 +50,13 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
-🎓I am Currently an undergraduate student at Symbiosis International University, pursuing a Bachelor's degree(B.Tech) in Electronics and Telecommunication and specialization in robotics and AI. I was indeed fortunate to be guided by luminaries in the field—Dr. Ketan Kotecha, Dr. Rahee Walambe and Mrs. Gargi Joshi—whose mentorship impelled me to perpetually seek solutions to the most intricate inquiries.
+🎓I am Currently an undergraduate student at Symbiosis International University, pursuing a Bachelor's degree(B.Tech) in Electronics and Telecommunication with and specialization in robotics and AI. I was indeed fortunate to be guided by luminaries in the field—Dr. Ketan Kotecha, Dr. Rahee Walambe, and Mrs. Gargi Joshi—whose mentorship impelled me to perpetually seek solutions to the most intricate inquiries.
 
 💡 Passionate about leveraging cutting-edge technologies to tackle intricate challenges. Particularly enthusiastic about the domains of collaborative robotics, autonomous systems, human-robot interaction, and aerial vehicles.
 
 🔬 My academic journey seamlessly integrates with my research pursuits, which revolve around Principle-centric Machine Learning for physical ML systems. This encompasses Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning, promising way to build background knowledge and approximate a form of common sense in AI systems.
 
-🤖💡with a strong desire for continuous learning, I hold a deep fascination for addressing challenges in collaborative robotics, navigation, and perception within autonomous systems.  In particular, I'm intrigued by the facets of decision-making and intelligent thinking, employing reinforcement and imitation learning. 🧠 Additionally, my passion extends to exploring the diverse dimensions of human-robot intelligence and the myriad possibilities offered by aerial vehicles, all through the lens of multimodality.
+🤖I'm intrigued by the facets of decision-making and intelligent thinking, employing reinforcement and imitation learning. Additionally, my passion extends to exploring the diverse dimensions of embodied AI, physical intelligence, and the myriad possibilities offered by aerial vehicles, all through the lens of multiple modalities.
 
 🚀 Fueled by an unwavering motivation to explore, innovate, and ultimately contribute to the progression of technology.
 
