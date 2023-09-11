@@ -1,11 +1,15 @@
 ---
-title: "RFID Attendance System using 8051 Microcontroller Project"
-excerpt: "Problem Statement:
-Educational institutions and workplaces face challenges in managing attendance efficiently, with traditional methods being time-consuming and insecure. This results in concerns over truancy impacting academic performance and work productivity."
+title: "Omni-copter motion planning in a dynamic environment"
+excerpt: "In a highly dynamic environment, achieving optimal flight control and minimizing latency perception for an omnidirectional hexacopter is essential. To facilitate this, a trajectory is established for the omnicopter, integrating ArUco markers on obstacles for object identification within the environment. Motion planning and obstacle avoidance are then executed through reinforcement learning techniques."
 collection: Portfolio
 ---
-<img src="/ameyjoshi.github.io/images/RFID_1.png">
-Solution:
-Implementing a Radio Frequency Identification (RFID) based attendance system offers a secure, efficient, and accurate solution. Each individual's RFID-tagged ID card uniquely identifies them, enabling quick attendance capture by simply placing the card on a reader. Real-time clock functionality ensures precise time records, and data can be stored in a database, accessible through RS232 or USB connections, or viewed via HyperTerminal software, streamlining attendance management for schools, colleges, universities, and workplaces.
+<img src="/ameyjoshi.github.io/images/Copter_4.jpg">|<img src="/ameyjoshi.github.io/images/Copter_4.1.jpg">
+Autonomous UAV process using ROS:
+Implementing the simulation environment and autonomous UAV parameters such as
+body frames, position, velocity, angular rotation using ROSNODES and
+ROSSERVICES.
+ROS and Reinforcement Learning:
+Creating a ROS environment for simulating optimal time flight and planning trajectories through checkpoints. Developing Model predictive control algorithms 
+for learning policies through better rewards. Considering parameters such as position, velocity, body rates, rotors rotational speed, unit quaternion rotation model building using state, action, and reward and compare them with given state-of-the-art. Reinforcement Learning (RL) algorithms. Deploying the algorithm into a real-time aerial vehicle and fine-tuning the motor equations with additional computational behavior.
 
 
