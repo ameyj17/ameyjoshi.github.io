@@ -3,7 +3,8 @@ title: "Omni-copter motion planning in a dynamic environment"
 excerpt: "In a highly dynamic environment, achieving optimal flight control and minimizing latency perception for an omnidirectional hexacopter is essential. To facilitate this, a trajectory is established for the omnicopter, integrating ArUco markers on obstacles for object identification within the environment. Motion planning and obstacle avoidance are then executed through reinforcement learning techniques."
 collection: Portfolio
 ---
-<img src="/ameyjoshi.github.io/images/Copter_4.jpg">|<img src="/ameyjoshi.github.io/images/Copter_4.1.jpg">
+| ![Image 1](/ameyjoshi.github.io/images/copter_4.jpg) | ![Image 2](/ameyjoshi.github.io/images/copter_4.1.jpg) |
+
 Autonomous UAV process using ROS:
 Implementing the simulation environment and autonomous UAV parameters such as
 body frames, position, velocity, angular rotation using ROSNODES and
