@@ -62,7 +62,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 | ![Image 1](/ameyjoshi.github.io/images/SIT.jpg) | ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg) | ![Image 3](/ameyjoshi.github.io/images/DST_1.jpg) | ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg) | ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg) |
 
-|         **Student**         | **Research Intern** |          **Project Collaboration**             | **Robotics Intern** | 
+|   **Student**                   | **Research Intern** |          **Project Collaboration**                                | **Robotics Intern** | 
 
 
 
