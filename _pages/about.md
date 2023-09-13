@@ -62,52 +62,8 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 | ![Image 1](/ameyjoshi.github.io/images/SIT.jpg) | ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg) | ![Image 3](/ameyjoshi.github.io/images/DST_1.jpg) | ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg) | ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg) |
 
-| **Student** | **Research Intern** | **Project Collaboration** | **Project Collaboration** | **Robotics Intern** | 
-
-| ![Image 1](/ameyjoshi.github.io/images/SIT.jpg)
-| :---: 
-| Caption 1
-
-| ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg)
-| :---: 
-| Caption 2
-
-| ![Image 3](/ameyjoshi.github.io/images/DST_1.jpg)
-| :---: 
-| Caption 3
-
-| ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg)
-| :---: 
-| Caption 4
-
-| ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg)
-| :---: 
-| Caption 5
+|         **Student**         | **Research Intern** |          **Project Collaboration**             | **Robotics Intern** | 
 
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="text-align: center; margin-right: 20px;">
-    ![Image 1](/ameyjoshi.github.io/images/SIT.jpg)
-    Caption 1
-  </div>
 
-  <div style="text-align: center; margin-right: 20px;">
-    ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg)
-    Caption 2
-  </div>
 
-  <div style="text-align: center; margin-right: 20px;">
-    ![Image 3](/ameyjoshi.github.io/images/DST_1.jpg)
-    Caption 3
-  </div>
-
-  <div style="text-align: center; margin-right: 20px;">
-    ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg)
-    Caption 4
-  </div>
-
-  <div style="text-align: center;">
-    ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg)
-    Caption 5
-  </div>
-</div>
