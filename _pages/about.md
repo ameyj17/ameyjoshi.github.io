@@ -60,9 +60,8 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 🚀 Fueled by an unwavering motivation to explore, innovate, and ultimately contribute to the progression of technology.
 
-| ![Image 1](/ameyjoshi.github.io/images/SIT.jpg)**Student**  | ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg) | ![Image 3](/ameyjoshi.github.io/images/DST_1.jpg) | ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg) | ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg) |
+| ![Image 1](/ameyjoshi.github.io/images/SIT.jpg) **Student**  | ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg) **Research Intern** | ![Image 3](/ameyjoshi.github.io/images/DST_1.jpg)  **Project Collaboration** | ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg) | ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg) **Robotics Intern** |
 
-|   **Student**                   | **Research Intern** |          **Project Collaboration**                                | **Robotics Intern** | 
 
 
 
