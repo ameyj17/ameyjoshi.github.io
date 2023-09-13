@@ -1,9 +1,9 @@
 ---
-title: "Towards Robust and Explainable OD in Drone Imagery"
+title: "Multimodal uncertainty aware paradigm for Object detection using XAI"
 excerpt: " **Indo-Italy Bilateral Research Mobility Grant (DST-Italian Ministry of Foreign Affairs)** "
 collection: Portfolio
 ---
-![img](/ameyjoshi.github.io/images/DST_2.jpg){:width="50px" height="50px"}
+![img](/ameyjoshi.github.io/images/DST_2.jpg){:width="400px" height="400px"}
 
 **objectives:**
 **1. Development of AI-based Image processing and object detection models from drone imagery using multimodal fusion.**
