@@ -60,9 +60,29 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 🚀 Fueled by an unwavering motivation to explore, innovate, and ultimately contribute to the progression of technology.
 
-| ![Image 1](/ameyjoshi.github.io/images/SIT.jpg) **Student**  | ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg) **Research Intern** | ![Image 3](/ameyjoshi.github.io/images/DST_1.jpg)  **Project Collaboration** | ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg) | ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg) **Robotics Intern** |
 
 
+<div align="center">
+    <img src="/ameyjoshi.github.io/images/SIT.jpg" alt="Student" width="150"/>
+    <img src="/ameyjoshi.github.io/images/SCAAI.jpg" alt="Research Intern" width="150"/>
+    <img src="/ameyjoshi.github.io/images/DST_1.jpg" alt="Project Collaboration" width="150"/>
+    <img src="/ameyjoshi.github.io/images/uni_milan.jpg" alt="University of Milan" width="150"/>
+    <img src="/ameyjoshi.github.io/images/flytbase.jpg" alt="Robotics Intern" width="150"/>
+</div>
+
+<div align="center">
+    <b>Student</b>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <b>Research Intern</b>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <b>Project Collaboration</b>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <b>University of Milan</b>
+    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+    <b>Robotics Intern</b>
+</div>
+
+---
 
 
 
