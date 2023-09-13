@@ -63,7 +63,6 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 
 <div align="center">
-    <img src="/ameyjoshi.github.io/images/SIT.jpg" alt="Student" width="150"/>
     <img src="/ameyjoshi.github.io/images/SCAAI.jpg" alt="Research Intern" width="150"/>
     <img src="/ameyjoshi.github.io/images/DST_1.jpg" alt="Project Collaboration" width="150"/>
     <img src="/ameyjoshi.github.io/images/uni_milan.jpg" alt="University of Milan" width="150"/>
@@ -71,8 +70,6 @@ More info about configuring academicpages can be found in [the guide](https://ac
 </div>
 
 <div align="center">
-    <b>Student</b>
-    <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <b>Research Intern</b>
     <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
     <b>Project Collaboration</b>
