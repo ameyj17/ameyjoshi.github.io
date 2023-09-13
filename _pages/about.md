@@ -79,7 +79,66 @@ More info about configuring academicpages can be found in [the guide](https://ac
     <b>Robotics Intern</b>
 </div>
 
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Web Page</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #top-images {
+            position: fixed;
+            top: 0;
+            right: 0;
+            display: flex;
+            flex-direction: row-reverse;
+            align-items: flex-start;
+            margin: 10px;
+        }
+
+        #top-images img {
+            max-width: 200px;
+            margin-left: 10px;
+        }
+
+        #top-images p {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="top-images">
+        <div>
+            <img src="/ameyjoshi.github.io/images/SIT.jpg" alt="Image 1">
+            <p>Caption 1</p>
+        </div>
+        <div>
+            <img src="/ameyjoshi.github.io/images/SCAAI.jpg" alt="Image 2">
+            <p>Caption 2</p>
+        </div>
+        <div>
+            <img src="/ameyjoshi.github.io/images/DST_1.jpg" alt="Image 3">
+            <p>Caption 3</p>
+        </div>
+        <div>
+            <img src="/ameyjoshi.github.io/images/uni_milan.jpg" alt="Image 4">
+            <p>Caption 4</p>
+        </div>
+        <div>
+            <img src="/ameyjoshi.github.io/images/flytbase.jpg" alt="Image 5">
+            <p>Caption 5</p>
+        </div>
+    </div>
+
+    <!-- Rest of your web page content goes here -->
+
+</body>
+</html>
 
 
 
