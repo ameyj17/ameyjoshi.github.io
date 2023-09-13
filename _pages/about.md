@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I am Amey Joshi!"
+title: "👋 About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -61,7 +61,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 🚀 Fueled by an unwavering motivation to explore, innovate, and ultimately contribute to the progression of technology.
 
 | ![Image 1](/ameyjoshi.github.io/images/SIT.jpg)  | ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg)  | ![Image 3](/ameyjoshi.github.io/images/DST_1.jpg)  | ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg) | ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg) |
-|         **student**              |**Research Intern**|                        **Project Collaboration**                                |**Project COllaboration**|**Robotics Intern**|
+|         **student**              |**Research Intern**|                        **Project Collaboration**                                |**Project Collaboration**|**Robotics Intern**|
 
 
 
