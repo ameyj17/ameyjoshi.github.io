@@ -5,4 +5,4 @@ utilisation of a photometric loss."
 collection: Portfolio
 ---
 
-
+**Information shall be updated soon**
