@@ -1,6 +1,5 @@
 ---
 title: "Development of an Energy Management System for Electric Vehicle Charging Demand Response: Minimizing Energy Expenses and Optimizing Consumption Patterns through Online Learning and Long-Term Cost-Effective Charging Schedules"
-excerpt:
 collection: Portfolio
 ---
 ![Short Image](/ameyjoshi.github.io/images/DSM_3.jpg){:width="350px" height="350px"}
