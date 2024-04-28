@@ -1,6 +1,6 @@
 ---
-title: "Omni-copter motion planning in a dynamic environment"
-excerpt: "In a highly dynamic environment, achieving optimal flight control and minimizing latency perception for an omnidirectional hexacopter is essential. To facilitate this, a trajectory is established for the omnicopter, integrating ArUco markers on obstacles for object identification within the environment. Motion planning and obstacle avoidance are then executed through reinforcement learning techniques."
+title: "Optimizing Flight Control and Minimizing Latency Perception in Dynamic Environments: A Reinforcement Learning Approach to Trajectory Planning and Obstacle Avoidance for Omnidirectional Hexacopters Using ArUco Markers"
+excerpt: " "
 collection: Portfolio
 ---
 | ![Image 1](/ameyjoshi.github.io/images/copter_4.jpg) | ![Image 2](/ameyjoshi.github.io/images/copter_4.1.jpg) |
