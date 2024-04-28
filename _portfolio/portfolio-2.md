@@ -1,6 +1,6 @@
 ---
-title: "Dynamic pricing demand response using reinforcement learning for charging of EV's"
-excerpt: "An energy management system for electric vehicle charging demand response was developed, wherein energy expenses are minimized, consumption patterns are optimized, and online learning is employed to predict the impact of future energy prices and consumer decisions on long-term cost-effective charging schedules."
+title: "Development of an Energy Management System for Electric Vehicle Charging Demand Response: Minimizing Energy Expenses and Optimizing Consumption Patterns through Online Learning and Long-Term Cost-Effective Charging Schedules"
+excerpt:
 collection: Portfolio
 ---
 ![Short Image](/ameyjoshi.github.io/images/DSM_3.jpg){:width="350px" height="350px"}
