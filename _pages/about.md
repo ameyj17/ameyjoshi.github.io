@@ -54,11 +54,8 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 💡 Passionate about leveraging cutting-edge technologies to tackle intricate challenges. Particularly enthusiastic about the domains of geometric vision (structure from motion, SLAM, optical flow) to visual perception (detection, recognition, classification), as well as machine learning problems (deep learning, reinforcement learning, generative models).
 
-🔬 My academic journey seamlessly integrates with my research pursuits, which revolve around Principle-centric Machine Learning for physical ML systems. This encompasses Scene and Behavior Understanding, Simulation for Deep Learning, 3D Computer Vision, and Self-Supervised Learning, promising way to build background knowledge and approximate a form of common sense in AI systems.
-
 🤖 My aim is to create algorithms and systems that allow autonomous robots and embodied agents to reason about and operate within the real world environment. My research area combines principles from robotics, machine learning, and computer vision. I concentrate on developing methods for perception and decision-making capabilities that can enable general-purpose autonomous functionality for robots operating in uncontrolled, real-world settings.
 
-🚀 Fueled by an unwavering motivation to explore, innovate, and ultimately contribute to the progression of technology.
 
 | ![Image 1](/ameyjoshi.github.io/images/SIT.jpg)  | ![Image 2](/ameyjoshi.github.io/images/SCAAI.jpg)  | ![Image 3](/ameyjoshi.github.io/images/DST_1.jpg)  | ![Image 4](/ameyjoshi.github.io/images/uni_milan.jpg) | ![Image 5](/ameyjoshi.github.io/images/flytbase.jpg) | ![Image 6](/ameyjoshi.github.io/images/dassault.png)
 |         **student**              |**Research Intern**|                        **Project Associate**                                |**Project Associate**|**Robotics Intern**|  **AI Research Intern** |
