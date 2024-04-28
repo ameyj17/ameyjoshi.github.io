@@ -1,6 +1,6 @@
 ---
 title: "Multimodal uncertainty aware paradigm for Object detection using XAI"
-excerpt: " **Indo-Italy Bilateral Research Mobility Grant (DST-Italian Ministry of Foreign Affairs)** "
+excerpt: " Indo-Italy Bilateral Research Mobility Grant (DST-Italian Ministry of Foreign Affairs) "
 collection: Portfolio
 ---
 ![img](/ameyjoshi.github.io/images/DST_2.jpg){:width="400px" height="400px"}
