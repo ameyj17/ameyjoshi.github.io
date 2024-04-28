@@ -1,6 +1,6 @@
 ---
 title: "DiscoverNet: Unsupervised Video Object Discovery through Discrete Visual Tokenization and Language Model-Inspired Reconstruction"
-excerpt: " La fondation Dassault Systemes project"
+excerpt: " **La fondation Dassault Systemes project** "
 collection: Portfolio
 ---
 ![img](/ameyjoshi.github.io/images/DiscoverNet.png){:width="400px" height="400px"}
