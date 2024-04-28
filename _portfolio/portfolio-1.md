@@ -1,5 +1,5 @@
 ---
-title: "Improving Attendance Management in Educational Institutions and Workplaces: Addressing Truancy Concerns through Efficient and Secure Technologiest"
+title: "Improving Attendance Management in Educational Institutions and Workplaces: Addressing Truancy Concerns through Efficient and Secure Technologies"
 excerpt: " "
 collection: Portfolio
 ---
