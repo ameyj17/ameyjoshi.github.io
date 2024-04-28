@@ -1,7 +1,6 @@
 ---
-title: "Video Object segmentation using self-supervision for autonomous vehicles"
-excerpt: "Processing on unlabeled data, form clusters of individual entities and discriminating the foreground and background through
-self-supervised learning framework."
+title: "Self-Supervised Video Object Segmentation for Autonomous Vehicles: A Framework for Processing Unlabeled Data and Foreground-Background Discriminatio"
+excerpt: " "
 collection: Portfolio
 ---
 ![Image 1](/ameyjoshi.github.io/images/SSL_5.jpg){:width="500px" height="500px"}
