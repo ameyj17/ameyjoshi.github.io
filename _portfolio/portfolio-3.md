@@ -1,5 +1,5 @@
 ---
-title: "Optimizing Flight Control and Minimizing Latency Perception in Dynamic Environments: A Reinforcement Learning Approach to Trajectory Planning and Obstacle Avoidance for Omnidirectional Hexacopters Using ArUco Markers"
+title: "Developing and Optimizing SLAM Algorithms using Synthetic Lidar Data: A Comprehensive Study on Scenario Simulation, Point Cloud Generation, and Pose Graph Optimization in 3D Environments"
 excerpt: " "
 collection: Portfolio"
 ---
