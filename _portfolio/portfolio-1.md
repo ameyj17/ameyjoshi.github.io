@@ -1,7 +1,6 @@
 ---
-title: "RFID Attendance System using 8051 Microcontroller Project"
-excerpt: "Problem Statement:
-Educational institutions and workplaces face challenges in managing attendance efficiently, with traditional methods being time-consuming and insecure. This results in concerns over truancy impacting academic performance and work productivity."
+title: "Improving Attendance Management in Educational Institutions and Workplaces: Addressing Truancy Concerns through Efficient and Secure Technologiest"
+excerpt:" "
 collection: Portfolio
 ---
 
