@@ -116,7 +116,9 @@ a {
     @extend %tab-focus;
   }
 
-  &:hover,
+  &:hover{
+     opacity: 0.6;
+  }
   &:active {
     outline: 0;
   }
