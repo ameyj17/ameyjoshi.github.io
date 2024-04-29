@@ -114,7 +114,8 @@ blockquote {
 a {
   color: $link-color;
   font-family: 'San Francisco', serif;
-
+  text-decoration: none;
+   
   &:focus {
     @extend %tab-focus;
   }
