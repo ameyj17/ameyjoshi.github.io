@@ -3,6 +3,8 @@ title: "Self-Supervised Video Object Segmentation for Autonomous Vehicles: A Fra
 excerpt: " "
 collection: Portfolio
 ---
+<hr style="border-top: 1px solid red; margin: 1em 0;">
+
 ![Image 1](/ameyjoshi.github.io/images/SSL_5.jpg){:width="500px" height="500px"}
 
 **Challenges faced:**
