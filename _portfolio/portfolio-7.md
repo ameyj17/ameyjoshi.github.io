@@ -1,6 +1,6 @@
 ---
 title: "DiscoverNet: Unsupervised Video Object Discovery through Discrete Visual Tokenization and Language Model-Inspired Reconstruction"
-excerpt: " **La fondation Dassault Systemes project** "
+excerpt: "<span style='border: 1px solid red; padding: 2px 5px;'>&nbsp;**La fondation Dassault systemes project**&nbsp;</span>"
 collection: Portfolio
 ---
 <hr style="border-top: 1px solid red; margin: 1em 0;">
