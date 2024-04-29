@@ -3,6 +3,8 @@ title: "Optimizing Flight Control and Minimizing Latency Perception in Dynamic E
 excerpt: " "
 collection: Portfolio
 ---
+<hr style="border-top: 1px solid red; margin: 1em 0;">
+
 | ![Image 1](/ameyjoshi.github.io/images/copter_4.jpg) | ![Image 2](/ameyjoshi.github.io/images/copter_4.1.jpg) |
 
 **Autonomous UAV process using ROS:**
