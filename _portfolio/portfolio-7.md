@@ -3,6 +3,7 @@ title: "DiscoverNet: Unsupervised Video Object Discovery through Discrete Visual
 excerpt: " **La fondation Dassault Systemes project** "
 collection: Portfolio
 ---
+<hr style="border-top: 1px solid red; margin: 1em 0;">
 
 <p style="text-align: center;">
   <img src="/ameyjoshi.github.io/images/arch_flow.png" alt="DiscoverNet Architecture" width="500" height="auto">
