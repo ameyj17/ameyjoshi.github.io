@@ -10,5 +10,3 @@ venue: 'IET conference'
 ---
 
 [Download paper here](https://digital-library.theiet.org/content/conferences/10.1049/icp.2023.0315)
-
-Recommended citation: Joshi, Amey, et al. "Video object segmentation with the self-supervised framework for an autonomous vehicle." (2022): 20-25.
