@@ -3,6 +3,7 @@ title: "Improving Attendance Management in Educational Institutions and Workplac
 excerpt: " "
 collection: Portfolio
 ---
+<hr style="border-top: 1px solid red; margin: 1em 0;">
 
 <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 1 1 50%; padding: 10px;">
