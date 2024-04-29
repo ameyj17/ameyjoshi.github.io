@@ -90,12 +90,29 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : black;
+$link-color                 : $dark-gray;
 $link-color-hover           : mix(#000, black, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+a {
+  color: $link-color;
+  font-family: 'Roboto Slab', serif;
 
+  &:focus {
+    @extend %tab-focus;
+  }
+
+  &:hover {
+    opacity: 0.6;
+    text-decoration-color: darken($link-color, 10%);
+    transition: all 0.2s ease-in-out;
+  }
+
+  &:active {
+    outline: 0;
+  }
+}
 
 /*
    Breakpoints
