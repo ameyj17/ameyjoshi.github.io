@@ -3,7 +3,7 @@ title: "Video Object Segmentation with Self-Supervised Framework for
 Autonomous Vehicles"
 collection: publications
 permalink: /IET digital library/VOS-SSL
-excerpt:" "
+excerpt: " "
 date: 2022-10-01
 venue: 'IET conference'
 
