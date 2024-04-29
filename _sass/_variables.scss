@@ -87,7 +87,8 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-
+$numbered-box-bg-color: black;
+$numbered-box-text-color: #fff;
 
 /* links */
 $link-color                 : $darker-gray;
@@ -114,6 +115,7 @@ a {
     outline: 0;
   }
 }
+
 
 /*
    Breakpoints
