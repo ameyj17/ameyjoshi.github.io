@@ -3,5 +3,6 @@ title: "Synthesizing Realistic Multimodal Drone Imagery for Effective Search and
 excerpt: "**La fondation Dassault systemes project**"
 collection: Portfolio
 ---
+<hr style="border-top: 1px solid red; margin: 1em 0;">
 
 Work in progress
