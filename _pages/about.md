@@ -61,5 +61,39 @@ More info about configuring academicpages can be found in [the guide](https://ac
 |         **student**              |**Research Intern**|                        **Project Associate**                                |**Project Associate**|**Robotics Intern**|  **AI Research Intern** |
 
 
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>Internship 1</h3>
+      <p>Description of Internship 1</p>
+      <div class="timeline-content-below">
+        <p>Additional content for Internship 1</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>Internship 2</h3>
+      <p>Description of Internship 2</p>
+      <div class="timeline-content-below">
+        <p>Additional content for Internship 2</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-dot"></div>
+    <div class="timeline-content">
+      <h3>Internship 3</h3>
+      <p>Description of Internship 3</p>
+      <div class="timeline-content-below">
+        <p>Additional content for Internship 3</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 
