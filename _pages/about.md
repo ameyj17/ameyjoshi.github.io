@@ -76,7 +76,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>FLytbase(01/2023-06/2023)</h3>
+      <h3>FLytbase (01/2023-06/2023)</h3>
       <p>Robotics Intern</p>
       <div class="timeline-content-below">
         <p>ROS, MAvlink, MQTT, Gstreamer, REST (Tools: python development, C++, linux system administration, jetson nano, Casia G )</p>
@@ -87,7 +87,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>La fondation dassault systemes(09/2023-present)</h3>
+      <h3>La fondation dassault systemes (09/2023-present)</h3>
       <p>AI Research Intern</p>
       <div class="timeline-content-below">
         <p>Geometric vision, LLMs, 3D_experience, GPU architecture (Tools: pytorch, deep learning, NVIDIA DGX)</p>
