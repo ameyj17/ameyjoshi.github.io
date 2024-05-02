@@ -68,7 +68,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
       <h3>SCAAI (07/2022-08/2023)</h3>
       <p>ML Researcher</p>
       <div class="timeline-content-below">
-        <p>Multimodal fusion, XAI, CV, LSTM (Tools: pytorch, tensorflow, docker, NVIDIA DGX) 1</p>
+        <p>Multimodal fusion, XAI, CV, LSTM (Tools: pytorch, tensorflow, docker, NVIDIA DGX) </p>
       </div>
     </div>
   </div>
@@ -90,7 +90,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
       <h3>La fondation dassault systemes(09/2023-present)</h3>
       <p>AI Research Intern</p>
       <div class="timeline-content-below">
-        <p>Geometric vision, LLMs, 3D_expeience (Tools: pytorch, deep learning, GPU arch, NVIDIA DGX)</p>
+        <p>Geometric vision, LLMs, 3D_experience, GPU architecture (Tools: pytorch, deep learning, NVIDIA DGX)</p>
       </div>
     </div>
   </div>
