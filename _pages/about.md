@@ -65,10 +65,10 @@ More info about configuring academicpages can be found in [the guide](https://ac
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>Internship 1</h3>
-      <p>Description of Internship 1</p>
+      <h3>SCAAI (07/2022-08/2023)</h3>
+      <p>ML Researcher</p>
       <div class="timeline-content-below">
-        <p>Additional content for Internship 1</p>
+        <p>Multimodal fusion, XAI, CV, LSTM (Tools: pytorch, tensorflow, docker, NVIDIA DGX) 1</p>
       </div>
     </div>
   </div>
@@ -76,10 +76,10 @@ More info about configuring academicpages can be found in [the guide](https://ac
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>Internship 2</h3>
-      <p>Description of Internship 2</p>
+      <h3>FLytbase(01/2023-06/2023)</h3>
+      <p>Robotics Intern</p>
       <div class="timeline-content-below">
-        <p>Additional content for Internship 2</p>
+        <p>ROS, MAvlink, MQTT, Gstreamer, REST (Tools: python development, C++, linux system administration, jetson nano, Casia G )</p>
       </div>
     </div>
   </div>
@@ -87,10 +87,10 @@ More info about configuring academicpages can be found in [the guide](https://ac
   <div class="timeline-item">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
-      <h3>Internship 3</h3>
-      <p>Description of Internship 3</p>
+      <h3>La fondation dassault systemes(09/2023-present)</h3>
+      <p>AI Research Intern</p>
       <div class="timeline-content-below">
-        <p>Additional content for Internship 3</p>
+        <p>Geometric vision, LLMs, 3D_expeience (Tools: pytorch, deep learning, GPU arch, NVIDIA DGX)</p>
       </div>
     </div>
   </div>
