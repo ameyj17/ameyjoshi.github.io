@@ -62,7 +62,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 
 
 <div class="timeline">
-  <div class="timeline-item">
+  <div class="timeline-item" style="--index: 1">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <h3>SCAAI (07/2022-08/2023)</h3>
@@ -73,7 +73,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
     </div>
   </div>
 
-  <div class="timeline-item">
+  <div class="timeline-item" style="--index: 2">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <h3>Flytbase (01/2023-06/2023)</h3>
@@ -84,7 +84,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
     </div>
   </div>
 
-  <div class="timeline-item">
+  <div class="timeline-item" style="--index: 3">
     <div class="timeline-dot"></div>
     <div class="timeline-content">
       <h3>La fondation dassault systemes (09/2023-present)</h3>
@@ -95,5 +95,6 @@ More info about configuring academicpages can be found in [the guide](https://ac
     </div>
   </div>
 </div>
+
 
 
